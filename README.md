@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Varun%20P%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Varun P M Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563EB&height=180&section=header&text=Varun%20P%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Varun P M Header"/>
 </p>
 
 <p align="center">
@@ -16,6 +16,10 @@
 
   <a href="mailto:varudharun@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email"/>
+  </a>
+
+  <a href="https://leetcode.com/u/VARUN-MAHESH/">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0f172a" alt="LeetCode"/>
   </a>
 
   <a href="https://github.com/Varun-mahesh">
@@ -69,9 +73,12 @@
 
 <p align="center">
 
-<b>B.Tech – Information Technology</b><br/>
-St. Joseph's College of Engineering, Chennai<br/>
-2024 – 2028<br/>
+<b>B.Tech – Information Technology</b>
+<br/>
+St. Joseph's College of Engineering, Chennai
+<br/>
+2024 – 2028
+<br/>
 <b>CGPA: 8.73 / 10.0</b>
 
 </p>
@@ -83,6 +90,7 @@ St. Joseph's College of Engineering, Chennai<br/>
 <table width="100%" border="0">
 
 <tr>
+
 <td width="50%" align="center" style="padding: 18px;">
 
 <h3>☁️ Cloud Computing Intern</h3>
@@ -118,6 +126,7 @@ developing communication, coordination and
 attention-to-detail skills.
 
 </td>
+
 </tr>
 
 </table>
@@ -144,9 +153,12 @@ website using Amazon S3.
 </p>
 
 <p>
-• S3 static website hosting<br/>
-• Public access configuration<br/>
-• IAM policies<br/>
+• S3 static website hosting
+<br/>
+• Public access configuration
+<br/>
+• IAM policies
+<br/>
 • Deployment documentation
 </p>
 
@@ -170,9 +182,12 @@ configuration of a web server using Amazon EC2.
 </p>
 
 <p>
-• EC2 instance configuration<br/>
-• Security group configuration<br/>
-• SSH server access<br/>
+• EC2 instance configuration
+<br/>
+• Security group configuration
+<br/>
+• SSH server access
+<br/>
 • Linux server management
 </p>
 
@@ -188,45 +203,39 @@ configuration of a web server using Amazon EC2.
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
+<h2 align="left">🛠️ Tech Stack & Skills</h2>
 
-<p align="center">
-  <b>Programming Languages</b>
-</p>
+<h3 align="left">💻 Programming Languages</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,java" alt="Programming Languages"/>
 </p>
 
-<p align="center">
+<p align="left">
   <b>Python • Java • SQL</b>
 </p>
 
 <br/>
 
-<p align="center">
-  <b>Cloud & Infrastructure</b>
-</p>
+<h3 align="left">☁️ Cloud & Infrastructure</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=aws,linux" alt="Cloud and Linux"/>
 </p>
 
-<p align="center">
+<p align="left">
   <b>AWS EC2 • S3 • IAM • VPC • Lambda • Linux</b>
 </p>
 
 <br/>
 
-<p align="center">
-  <b>Networking & Tools</b>
+<h3 align="left">🌐 Networking & Tools</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Networking and Tools"/>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" alt="Tools"/>
-</p>
-
-<p align="center">
+<p align="left">
   <b>Networking Fundamentals • Security Groups • SSH • Git</b>
 </p>
 
@@ -237,19 +246,19 @@ configuration of a web server using Amazon EC2.
 <p align="center">
 
 ☁️ <b>AWS Academy Cloud Foundations</b>
-<br/>
+<br/><br/>
 
 🤖 <b>AWS Academy Generative AI Foundations</b>
-<br/>
+<br/><br/>
 
 ☁️ <b>Oracle Cloud Infrastructure Foundations</b>
-<br/>
+<br/><br/>
 
 🐍 <b>NPTEL – Python for Data Science</b>
-<br/>
+<br/><br/>
 
 🐧 <b>Cisco Linux Unhatched</b>
-<br/>
+<br/><br/>
 
 🌐 <b>Cisco Networking Basics</b>
 
@@ -279,19 +288,39 @@ configuration of a web server using Amazon EC2.
 
 ---
 
-<h2 align="center">🧠 Problem Solving</h2>
+<h2 align="center">🧠 LeetCode Problem Solving</h2>
 
 <p align="center">
-  I am continuously improving my
-  <b>Data Structures & Algorithms</b>,
-  logical reasoning and problem-solving skills
-  through regular coding practice.
+  <i>
+    Continuously improving my Data Structures & Algorithms
+    and problem-solving skills through coding practice.
+  </i>
 </p>
 
 <p align="center">
 
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0f172a" alt="LeetCode"/>
+<a href="https://leetcode.com/u/VARUN-MAHESH/" target="_blank">
+
+<img
+  src="https://leetcard.jacoblin.cool/VARUN-MAHESH?theme=dark&font=Karma&border=0&radius=12"
+  width="100%"
+  style="max-width:480px;"
+  alt="LeetCode Stats"
+/>
+
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://leetcode.com/u/VARUN-MAHESH/" target="_blank">
+
+<img
+  src="https://img.shields.io/badge/LeetCode-Visit%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0f172a"
+  alt="Visit LeetCode Profile"
+/>
+
 </a>
 
 </p>
@@ -302,9 +331,19 @@ configuration of a web server using Amazon EC2.
 
 <p align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Varun-mahesh&show_icons=true&bg_color=0f172a&title_color=38BDF8&text_color=f3f4f6&icon_color=38BDF8&border_color=2563EB&border_radius=8" width="100%" style="max-width:440px;" alt="GitHub Stats"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Varun-mahesh&show_icons=true&theme=tokyonight&hide_border=true"
+  width="100%"
+  style="max-width:440px;"
+  alt="GitHub Stats"
+/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Varun-mahesh&layout=compact&bg_color=0f172a&title_color=38BDF8&text_color=f3f4f6&border_color=2563EB&border_radius=8" width="100%" style="max-width:350px;" alt="Top Languages"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-mahesh&layout=compact&theme=tokyonight&hide_border=true"
+  width="100%"
+  style="max-width:350px;"
+  alt="Top Languages"
+/>
 
 </p>
 
@@ -314,7 +353,12 @@ configuration of a web server using Amazon EC2.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Varun-mahesh&theme=dark&hide_border=false&border=2563EB&background=0f172a&ring=38BDF8&fire=38BDF8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=999999" width="100%" style="max-width:480px;" alt="GitHub Streak"/>
+<img
+  src="https://streak-stats.demolab.com/?user=Varun-mahesh&theme=dark&hide_border=false&border=2563EB&background=0f172a&ring=38BDF8&fire=38BDF8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=999999"
+  width="100%"
+  style="max-width:480px;"
+  alt="GitHub Streak"
+/>
 
 </p>
 
@@ -324,7 +368,11 @@ configuration of a web server using Amazon EC2.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+<img
+  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  width="100%"
+  alt="GitHub Contribution Snake"
+/>
 
 </p>
 
@@ -339,6 +387,7 @@ configuration of a web server using Amazon EC2.
 <td width="50%" align="center" style="padding: 15px;">
 
 ☁️
+
 <h3>AWS & Cloud</h3>
 
 Strengthen AWS Cloud and infrastructure skills
@@ -348,6 +397,7 @@ Strengthen AWS Cloud and infrastructure skills
 <td width="50%" align="center" style="padding: 15px;">
 
 💻
+
 <h3>Programming</h3>
 
 Improve Python, Java and DSA problem solving
@@ -361,6 +411,7 @@ Improve Python, Java and DSA problem solving
 <td width="50%" align="center" style="padding: 15px;">
 
 🖥️
+
 <h3>Backend</h3>
 
 Build practical backend and database projects
@@ -370,6 +421,7 @@ Build practical backend and database projects
 <td width="50%" align="center" style="padding: 15px;">
 
 🚀
+
 <h3>Open Source</h3>
 
 Start contributing to real-world projects
@@ -393,16 +445,32 @@ Start contributing to real-world projects
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/varun-mahesh-0a1b02326">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/varun-mahesh-0a1b02326" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="mailto:varudharun@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email"/>
+  <img
+    src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a"
+    alt="Email"
+  />
 </a>
 
-<a href="https://github.com/Varun-mahesh">
-  <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"/>
+<a href="https://leetcode.com/u/VARUN-MAHESH/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0f172a"
+    alt="LeetCode"
+  />
+</a>
+
+<a href="https://github.com/Varun-mahesh" target="_blank">
+  <img
+    src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=38BDF8"
+    alt="GitHub"
+  />
 </a>
 
 </p>
@@ -416,5 +484,9 @@ Start contributing to real-world projects
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0f172a&height=100&section=footer" width="100%" alt="Footer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0f172a&height=100&section=footer"
+    width="100%"
+    alt="Footer"
+  />
 </p>
