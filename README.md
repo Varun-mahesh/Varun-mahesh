@@ -91,7 +91,7 @@ St. Joseph's College of Engineering, Chennai
 
 <tr>
 
-<td width="50%" align="center" style="padding: 18px;">
+<td width="50%" align="center">
 
 <h3>☁️ Cloud Computing Intern</h3>
 
@@ -109,7 +109,7 @@ exercises, and technical documentation.
 
 </td>
 
-<td width="50%" align="center" style="padding: 18px;">
+<td width="50%" align="center">
 
 <h3>💻 Front-End Development Intern</h3>
 
@@ -139,7 +139,7 @@ attention-to-detail skills.
 
 <tr>
 
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
 <h3>☁️ Static Website Hosting on AWS S3</h3>
 
@@ -168,7 +168,7 @@ website using Amazon S3.
 
 </td>
 
-<td width="50%" align="center" style="padding: 20px;">
+<td width="50%" align="center">
 
 <h3>🖥️ EC2 Web Server Deployment</h3>
 
@@ -293,19 +293,19 @@ configuration of a web server using Amazon EC2.
 <p align="center">
   <i>
     Continuously improving my Data Structures & Algorithms
-    and problem-solving skills through coding practice.
+    and problem-solving skills through regular LeetCode practice.
   </i>
 </p>
 
 <p align="center">
 
-<a href="https://leetcode.com/u/VARUN-MAHESH/" target="_blank">
+<a href="https://leetcode.com/u/VARUN-MAHESH/">
 
 <img
   src="https://leetcard.jacoblin.cool/VARUN-MAHESH?theme=dark&font=Karma&border=0&radius=12"
   width="100%"
   style="max-width:480px;"
-  alt="LeetCode Stats"
+  alt="Varun LeetCode Stats"
 />
 
 </a>
@@ -314,11 +314,46 @@ configuration of a web server using Amazon EC2.
 
 <p align="center">
 
-<a href="https://leetcode.com/u/VARUN-MAHESH/" target="_blank">
+<a href="https://leetcode.com/u/VARUN-MAHESH/">
 
 <img
   src="https://img.shields.io/badge/LeetCode-Visit%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0f172a"
-  alt="Visit LeetCode Profile"
+  alt="Visit Varun LeetCode Profile"
+/>
+
+</a>
+
+</p>
+
+---
+
+<h2 align="center">⚡ LeetCode Contribution Journey</h2>
+
+<p align="center">
+  <i>My coding consistency and submission activity over the past 52 weeks.</i>
+</p>
+
+<p align="center">
+
+<a href="https://leetcode.com/u/VARUN-MAHESH/">
+
+<img
+  src="https://leetcard.jacoblin.cool/VARUN-MAHESH?theme=dark&font=Karma&ext=heatmap"
+  width="100%"
+  alt="Varun LeetCode Contribution Heatmap"
+/>
+
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://leetcode.com/u/VARUN-MAHESH/">
+
+<img
+  src="https://img.shields.io/badge/View%20Full%20LeetCode%20Profile-VARUN--MAHESH-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0f172a"
+  alt="VARUN-MAHESH LeetCode Profile"
 />
 
 </a>
@@ -357,21 +392,7 @@ configuration of a web server using Amazon EC2.
   src="https://streak-stats.demolab.com/?user=Varun-mahesh&theme=dark&hide_border=false&border=2563EB&background=0f172a&ring=38BDF8&fire=38BDF8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=999999"
   width="100%"
   style="max-width:480px;"
-  alt="GitHub Streak"
-/>
-
-</p>
-
----
-
-<h2 align="center">⚡ Contribution Journey</h2>
-
-<p align="center">
-
-<img
-  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  width="100%"
-  alt="GitHub Contribution Snake"
+  alt="GitHub Contribution Streak"
 />
 
 </p>
@@ -384,7 +405,7 @@ configuration of a web server using Amazon EC2.
 
 <tr>
 
-<td width="50%" align="center" style="padding: 15px;">
+<td width="50%" align="center">
 
 ☁️
 
@@ -394,7 +415,7 @@ Strengthen AWS Cloud and infrastructure skills
 
 </td>
 
-<td width="50%" align="center" style="padding: 15px;">
+<td width="50%" align="center">
 
 💻
 
@@ -408,7 +429,7 @@ Improve Python, Java and DSA problem solving
 
 <tr>
 
-<td width="50%" align="center" style="padding: 15px;">
+<td width="50%" align="center">
 
 🖥️
 
@@ -418,7 +439,7 @@ Build practical backend and database projects
 
 </td>
 
-<td width="50%" align="center" style="padding: 15px;">
+<td width="50%" align="center">
 
 🚀
 
@@ -445,7 +466,7 @@ Start contributing to real-world projects
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/varun-mahesh-0a1b02326" target="_blank">
+<a href="https://www.linkedin.com/in/varun-mahesh-0a1b02326">
   <img
     src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a"
     alt="LinkedIn"
@@ -459,14 +480,14 @@ Start contributing to real-world projects
   />
 </a>
 
-<a href="https://leetcode.com/u/VARUN-MAHESH/" target="_blank">
+<a href="https://leetcode.com/u/VARUN-MAHESH/">
   <img
     src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0f172a"
     alt="LeetCode"
   />
 </a>
 
-<a href="https://github.com/Varun-mahesh" target="_blank">
+<a href="https://github.com/Varun-mahesh">
   <img
     src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=38BDF8"
     alt="GitHub"
