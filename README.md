@@ -1,190 +1,420 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Varun%20P%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Varun P M Header"/>
+</p>
 
-# 👋 Hi, I'm Varun P M
+<p align="center">
+  <a href="https://github.com/Varun-mahesh">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=700&height=42&lines=Hi+there!+I'm+Varun+P+M+%F0%9F%91%8B;Information+Technology+Undergraduate+%F0%9F%8E%93;Cloud+%26+Backend+Enthusiast+%E2%98%81%EF%B8%8F;AWS+%7C+Linux+%7C+Networking+%7C+Python;Building+Projects+and+Improving+Every+Day+%F0%9F%9A%80" width="100%" alt="Typing SVG"/>
+  </a>
+</p>
 
-### ☁️ IT Undergraduate | Cloud & Backend Enthusiast
+<p align="center">
 
-Information Technology undergraduate passionate about Cloud Computing, Backend Development, and Systems Engineering.
-
-<p>
   <a href="https://www.linkedin.com/in/varun-mahesh-0a1b02326">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn"/>
   </a>
+
   <a href="mailto:varudharun@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email"/>
   </a>
+
+  <a href="https://github.com/Varun-mahesh">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"/>
+  </a>
+
 </p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Varun-mahesh&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">🔵 About Me</h2>
 
-🎓 Information Technology undergraduate at **St. Joseph's College of Engineering, Chennai**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=28&lines=Learning+%7C+Building+%7C+Solving+%7C+Improving" width="100%" alt="About Me"/>
+</p>
 
-☁️ Interested in **Cloud Computing, Backend Development, and Systems Engineering**
+<p align="center">
+  Hey! I'm <b>Varun P M</b>, an <b>Information Technology undergraduate</b>
+  at <b>St. Joseph's College of Engineering, Chennai</b>.
+  <br/><br/>
+  I am interested in <b>Cloud Computing, Backend Development, Linux,
+  Networking and Systems Engineering</b>.
+  <br/><br/>
+  I enjoy building practical projects using <b>AWS, Python, Java and SQL</b>
+  while continuously improving my problem-solving and technical skills.
+</p>
 
-💻 Strong foundation in **Python, Java, and SQL**
+<p align="center">
 
-🧩 Developing my **problem-solving and analytical skills** through coding practice
+  <img src="https://img.shields.io/badge/Status-🟢%20Learning%20%26%20Building-0f172a?style=flat-square" alt="Status"/>
 
-🚀 Hands-on experience with **AWS, Linux, Networking, and Git**
+  <img src="https://img.shields.io/badge/Degree-B.Tech%20Information%20Technology-2563EB?style=flat-square" alt="Degree"/>
 
-🔧 Interested in building practical projects and continuously improving my technical skills
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20Backend-0f172a?style=flat-square" alt="Focus"/>
+
+</p>
+
+<p align="center">
+  💬 <b>Interested in:</b> AWS, Cloud Computing, Python, Java, SQL, Linux & Networking
+  <br/>
+  ⚡ <b>Goal:</b> Build useful projects and become a strong software/cloud engineer
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🎓 Education</h2>
 
-### 💻 Programming
+<p align="center">
+
+<b>B.Tech – Information Technology</b><br/>
+St. Joseph's College of Engineering, Chennai<br/>
+2024 – 2028<br/>
+<b>CGPA: 8.73 / 10.0</b>
+
+</p>
+
+---
+
+<h2 align="center">💼 Professional Experience</h2>
+
+<table width="100%" border="0">
+
+<tr>
+<td width="50%" align="center" style="padding: 18px;">
+
+<h3>☁️ Cloud Computing Intern</h3>
+
+<b>Kasshiv Infotech</b>
+
+<br/>
+
+<sub>Nov 2025 – Dec 2025</sub>
+
+<br/><br/>
+
+Worked with cloud computing concepts including
+<b>IaaS, PaaS and SaaS</b>, cloud setup and deployment
+exercises, and technical documentation.
+
+</td>
+
+<td width="50%" align="center" style="padding: 18px;">
+
+<h3>💻 Front-End Development Intern</h3>
+
+<b>Cognifyz IT Solutions Pvt. Ltd.</b>
+
+<br/>
+
+<sub>Jun 2026 – Jul 2026</sub>
+
+<br/><br/>
+
+Worked on front-end development assignments while
+developing communication, coordination and
+attention-to-detail skills.
+
+</td>
+</tr>
+
+</table>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table width="100%" border="0">
+
+<tr>
+
+<td width="50%" align="center" style="padding: 20px;">
+
+<h3>☁️ Static Website Hosting on AWS S3</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java" />
+A cloud deployment project focused on hosting a static
+website using Amazon S3.
 </p>
-
-**Python • Java • SQL**
-
-### ☁️ Cloud & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,linux" />
+<b>Highlights</b>
 </p>
-
-**AWS EC2 • AWS S3 • IAM • VPC • Lambda**
-
-### 🌐 Networking & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github" />
+• S3 static website hosting<br/>
+• Public access configuration<br/>
+• IAM policies<br/>
+• Deployment documentation
 </p>
 
-**Networking Fundamentals • Security Groups • SSH • Git**
+<p>
+<b>AWS S3 • IAM</b>
+</p>
+
+</td>
+
+<td width="50%" align="center" style="padding: 20px;">
+
+<h3>🖥️ EC2 Web Server Deployment</h3>
+
+<p>
+A practical AWS project involving deployment and
+configuration of a web server using Amazon EC2.
+</p>
+
+<p>
+<b>Highlights</b>
+</p>
+
+<p>
+• EC2 instance configuration<br/>
+• Security group configuration<br/>
+• SSH server access<br/>
+• Linux server management
+</p>
+
+<p>
+<b>AWS EC2 • Linux • Networking • SSH</b>
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
 
-### ☁️ Static Website Hosting on AWS S3
+<p align="center">
+  <b>Programming Languages</b>
+</p>
 
-- Deployed a static website using **Amazon S3**
-- Configured public access policies for website delivery
-- Created a reusable deployment setup guide
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java" alt="Programming Languages"/>
+</p>
 
-**Technologies:** AWS S3 • IAM
+<p align="center">
+  <b>Python • Java • SQL</b>
+</p>
 
----
+<br/>
 
-### 🖥️ EC2 Web Server Deployment
+<p align="center">
+  <b>Cloud & Infrastructure</b>
+</p>
 
-- Provisioned and configured an **Amazon EC2 instance**
-- Deployed a live web application
-- Configured security group rules for controlled network access
-- Used **SSH** for server management
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,linux" alt="Cloud and Linux"/>
+</p>
 
-**Technologies:** AWS EC2 • Linux • Networking • SSH
+<p align="center">
+  <b>AWS EC2 • S3 • IAM • VPC • Lambda • Linux</b>
+</p>
 
----
+<br/>
 
-## 💼 Professional Experience
+<p align="center">
+  <b>Networking & Tools</b>
+</p>
 
-### Front-End Development Intern
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Tools"/>
+</p>
 
-**Cognifyz IT Solutions Pvt. Ltd.**  
-`Jun 2026 – Jul 2026`
-
-- Worked on Front-End Development assignments
-- Demonstrated effective communication and coordination skills
-- Developed strong attention to detail while completing assigned tasks
-- Continuously acquired new technical knowledge and skills
-
-### Cloud Computing Intern
-
-**Kasshiv Infotech**  
-`Nov 2025 – Dec 2025`
-
-- Built a foundation in **IaaS, PaaS, and SaaS**
-- Worked on cloud setup and deployment exercises
-- Developed technical communication and documentation skills
+<p align="center">
+  <b>Networking Fundamentals • Security Groups • SSH • Git</b>
+</p>
 
 ---
 
-## 🏆 Achievements
+<h2 align="center">📜 Certifications</h2>
 
-- 🥇 **Finalist – Hackcelerate '26 National Level Hackathon**
-- 🥇 **Finalist – Electrothon 2025 24-Hour Hackathon**
-- 🥇 **Finalist – India's Biggest Cloud Quiz 2026**
-- 🥇 **Finalist – QuizOff 2026: India's Biggest AI Quiz**
-- 🎯 **Participant – Design Thinking Workshop 2025**
+<p align="center">
 
----
+☁️ <b>AWS Academy Cloud Foundations</b>
+<br/>
 
-## 📜 Certifications
+🤖 <b>AWS Academy Generative AI Foundations</b>
+<br/>
 
-- ☁️ AWS Academy Cloud Foundations
-- 🤖 AWS Academy Generative AI Foundations
-- ☁️ Oracle Cloud Infrastructure Foundations
-- 🐧 Cisco Linux Unhatched
-- 🌐 Cisco Networking Basics
+☁️ <b>Oracle Cloud Infrastructure Foundations</b>
+<br/>
 
----
+🐍 <b>NPTEL – Python for Data Science</b>
+<br/>
 
-## 📊 GitHub Stats
+🐧 <b>Cisco Linux Unhatched</b>
+<br/>
 
-<div align="center">
+🌐 <b>Cisco Networking Basics</b>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Varun-mahesh&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-mahesh&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
+</p>
 
 ---
 
-## 🔥 Contribution Streak
+<h2 align="center">🏆 Achievements</h2>
 
-<div align="center">
+<p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Varun-mahesh&theme=tokyonight&hide_border=true" />
+🥇 <b>Finalist – Hackcelerate '26 National Level Hackathon</b>
+<br/><br/>
 
-</div>
+🥇 <b>Finalist – Electrothon 2025 24-Hour Hackathon</b>
+<br/><br/>
 
----
+🥇 <b>Finalist – India's Biggest Cloud Quiz 2026</b>
+<br/><br/>
 
-## 🧠 Problem Solving
+🥇 <b>Finalist – QuizOff 2026: India's Biggest AI Quiz</b>
+<br/><br/>
 
-I'm continuously improving my **problem-solving and Data Structures & Algorithms skills** through coding practice.
+🎯 <b>Participant – Design Thinking Workshop 2025</b>
 
----
-
-## 🎯 Current Goals
-
-- ☁️ Strengthen my **AWS Cloud** skills
-- 💻 Improve **Java and Python** problem solving
-- 🖥️ Build real-world backend projects
-- 🌐 Strengthen **Linux and Networking** knowledge
-- 🚀 Contribute to open-source projects
+</p>
 
 ---
 
-## 🤝 Let's Connect
+<h2 align="center">🧠 Problem Solving</h2>
 
-<div align="center">
+<p align="center">
+  I am continuously improving my
+  <b>Data Structures & Algorithms</b>,
+  logical reasoning and problem-solving skills
+  through regular coding practice.
+</p>
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0f172a" alt="LeetCode"/>
+</a>
+
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Varun-mahesh&show_icons=true&bg_color=0f172a&title_color=38BDF8&text_color=f3f4f6&icon_color=38BDF8&border_color=2563EB&border_radius=8" width="100%" style="max-width:440px;" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Varun-mahesh&layout=compact&bg_color=0f172a&title_color=38BDF8&text_color=f3f4f6&border_color=2563EB&border_radius=8" width="100%" style="max-width:350px;" alt="Top Languages"/>
+
+</p>
+
+---
+
+<h2 align="center">🔥 GitHub Contribution Streak</h2>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Varun-mahesh&theme=dark&hide_border=false&border=2563EB&background=0f172a&ring=38BDF8&fire=38BDF8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=999999" width="100%" style="max-width:480px;" alt="GitHub Streak"/>
+
+</p>
+
+---
+
+<h2 align="center">⚡ Contribution Journey</h2>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+</p>
+
+---
+
+<h2 align="center">🎯 Current Goals</h2>
+
+<table width="100%" border="0">
+
+<tr>
+
+<td width="50%" align="center" style="padding: 15px;">
+
+☁️
+<h3>AWS & Cloud</h3>
+
+Strengthen AWS Cloud and infrastructure skills
+
+</td>
+
+<td width="50%" align="center" style="padding: 15px;">
+
+💻
+<h3>Programming</h3>
+
+Improve Python, Java and DSA problem solving
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center" style="padding: 15px;">
+
+🖥️
+<h3>Backend</h3>
+
+Build practical backend and database projects
+
+</td>
+
+<td width="50%" align="center" style="padding: 15px;">
+
+🚀
+<h3>Open Source</h3>
+
+Start contributing to real-world projects
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<h2 align="center">📬 Let's Connect</h2>
+
+<p align="center">
+  <i>
+    Interested in Cloud Computing, Backend Development,
+    AWS or technical collaboration?
+  </i>
+</p>
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/varun-mahesh-0a1b02326">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:varudharun@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email"/>
 </a>
 
-</div>
+<a href="https://github.com/Varun-mahesh">
+  <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"/>
+</a>
+
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
 ### 💡 Learn • Build • Solve • Repeat
 
-</div>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0f172a&height=100&section=footer" width="100%" alt="Footer"/>
+</p>
